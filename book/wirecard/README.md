@@ -1,0 +1,3 @@
+# wirecard
+---
+* [wireCardChanel](wireCardChanel)
